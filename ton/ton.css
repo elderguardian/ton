@@ -1,3 +1,7 @@
+:root {
+    --color-secondary: #F8E8EE;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -53,6 +57,7 @@ body {
 hr {
     color: #eceff4;
     border: 1px solid;
+    margin: 1rem 0;
 }
 
 h1 { font-size: 2rem; }
@@ -61,3 +66,20 @@ h3 { font-size: 1.2rem; }
 h4 { font-size: 1rem; }
 h5 { font-size: .8rem; }
 h6 { font-size: .7rem; }
+
+p {
+    line-height: 1.5rem;
+}
+
+mark {
+    padding: .2em;
+    background-color: var(--color-secondary);
+}
+
+del, s, ins, u {
+    text-decoration-thickness: 1px;
+}
+
+ins, u {
+    text-underline-offset: 2px;
+}
