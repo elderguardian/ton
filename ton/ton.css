@@ -4,11 +4,32 @@
     box-sizing: border-box;
 }
 
+@font-face {
+    font-family: 'Rubik Semi Bold';
+    src: url('fonts/Rubik-SemiBold.ttf');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('fonts/Rubik-Regular.ttf');
+    font-display: swap;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins Semi Bold', 'Arial', serif;
+    margin: 2rem 0;
+}
+
 body {
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
+    font-family: 'Rubik', 'Arial', serif;
+    text-rendering: optimizeSpeed;
+    word-break: break-word;
+    overflow-wrap: break-word;
 }
 
 @media (min-width: 768px) {
@@ -28,3 +49,15 @@ body {
         width: 1170px;
     }
 }
+
+hr {
+    color: #eceff4;
+    border: 1px solid;
+}
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.2rem; }
+h4 { font-size: 1rem; }
+h5 { font-size: .8rem; }
+h6 { font-size: .7rem; }
