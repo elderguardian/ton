@@ -1,5 +1,7 @@
 :root {
     --color-secondary: #F8E8EE;
+    --secondary-background: #f5f5f5;
+    --secondary-foreground: #626262;
 }
 
 * {
@@ -82,4 +84,15 @@ del, s, ins, u {
 
 ins, u {
     text-underline-offset: 2px;
+}
+
+blockquote {
+    padding: 1rem;
+    margin: 1rem 0;
+    background-color: var(--secondary-background);
+}
+
+blockquote footer {
+    margin: .5rem;
+    color: var(--secondary-foreground);
 }
