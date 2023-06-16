@@ -1,5 +1,5 @@
 :root {
-    --color-primary: #F2BED1;
+    --color-primary: #f16699;
     --color-secondary: #F8E8EE;
     --color-tertiary: #FDCEDF;
     --secondary-background: #F9F5F6;
@@ -114,4 +114,9 @@ blockquote footer {
 
 ul {
     margin: 1.5rem .8rem;
+}
+
+a {
+    color: var(--color-primary);
+    text-underline-offset: .2rem;
 }
