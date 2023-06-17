@@ -1,4 +1,4 @@
 # ton
 
 ## Fonts
-- [Inter](https://github.com/rsms/inter)
+- [Rubik](https://github.com/googlefonts/rubik)
