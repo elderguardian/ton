@@ -58,19 +58,19 @@ body {
 
 @media (min-width: 768px) {
     body {
-        width: 750px;
+        width: 500px;
     }
 }
 
 @media (min-width: 992px) {
     body {
-        width: 970px;
+        width: 700px;
     }
 }
 
 @media (min-width: 1200px) {
     body {
-        width: 1170px;
+        width: 770px;
     }
 }
 
