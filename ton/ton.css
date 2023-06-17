@@ -2,8 +2,17 @@
     --color-primary: #f16699;
     --color-secondary: #F8E8EE;
     --color-tertiary: #FDCEDF;
-    --secondary-background: #F9F5F6;
-    --secondary-foreground: #626262;
+    --color-accent: #2296ab;
+    --color-foreground: black;
+    --color-foreground-secondary: #626262;
+
+    --background-primary: #F9F5F6;
+}
+
+a::selection,
+a:hover {
+    color: var(--color-accent);
+    text-underline-color: var(--color-accent);
 }
 
 ::selection {
@@ -42,6 +51,8 @@ body {
     text-rendering: optimizeSpeed;
     word-break: break-word;
     overflow-wrap: break-word;
+    color: var(--color-foreground);
+    background-color: var(--background-primary);
 }
 
 @media (min-width: 768px) {
@@ -80,7 +91,7 @@ hgroup *:nth-child(1) {
 }
 
 hgroup *:nth-child(2) {
-    color: var(--secondary-foreground);
+    color: var(--color-foreground-secondary);
     margin-top: .2rem;
 }
 
@@ -104,13 +115,13 @@ ins, u {
 blockquote {
     padding: 1rem;
     margin: 1rem 0;
-    background-color: var(--secondary-background);
+    background-color: var(--background-primary);
     border-left: 5px solid var(--color-primary);
 }
 
 blockquote footer {
     margin: .5rem;
-    color: var(--secondary-foreground);
+    color: var(--color-foreground);
 }
 
 ul {
