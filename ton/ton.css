@@ -154,3 +154,8 @@ a {
 dd {
     margin: .2rem 2rem;
 }
+
+img, video, svg {
+  max-width: 100%;
+  height: auto;
+}
