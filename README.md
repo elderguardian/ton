@@ -3,15 +3,15 @@ A lightweight and classless CSS Framework, created to make creating static websi
 
 ## Installation
 
-If you want to install a release, visit the `Releases` page and download the source code.
+If you want to install a specific release, visit the `Releases` page and download the source code.
 
-### Installing nightly as submodule
+### Installing latest release as Git Submodule
 
 1. `git submodule add https://github.com/elderguardian/ton.git`
 2. `<link rel="stylesheet" href="ton/ton.min.css">`
 
-### Install nightly from remote
-1. `<link rel="stylesheet" href="https://raw.githubusercontent.com/elderguardian/ton/main/ton.min.css">`
+### Install latest release from Remote
+1. `<link rel="stylesheet" href="https://raw.githubusercontent.com/elderguardian/ton/main/ton.min.css"`
 
 ## Configuration
 
