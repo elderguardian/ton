@@ -23,3 +23,20 @@
 ```
 <link rel="stylesheet" href="https://ton.kagerou.dev/lib/releases/ton-0.1.0.css">
 ```
+
+
+## 🎨 Configuration
+
+```css
+:root {
+    --color-primary: #f16699;
+    --color-secondary: #F8E8EE;
+    --color-tertiary: #FDCEDF;
+    --color-accent: #2296ab;
+    --color-foreground: black;
+    --color-foreground-secondary: #626262;
+
+    --background-primary: #f8f8f8;
+    --background-secondary: #F9F5F6;
+}
+```
