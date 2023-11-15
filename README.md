@@ -45,3 +45,7 @@
 ## 📄 License
 
 [GNU General Public License, Version 3.0 (GPL-3.0)](./LICENSE)
+
+<hr>
+
+Check out the used [Rubik Font](https://github.com/googlefonts/rubik) here.
