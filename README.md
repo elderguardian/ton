@@ -40,3 +40,8 @@
     --background-secondary: #F9F5F6;
 }
 ```
+
+
+## 📄 License
+
+[GNU General Public License, Version 3.0 (GPL-3.0)](./LICENSE)
