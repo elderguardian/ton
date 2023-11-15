@@ -24,14 +24,6 @@
 <link rel="stylesheet" href="https://ton.kagerou.dev/lib/releases/ton-0.1.0.css">
 ```
 
-<<<<<<< HEAD
-=======
-### Install latest release from Remote
-1. `<link rel="stylesheet" href="https://ton.kagerou.dev/lib/releases/latest.min.css"`
-1. `<link rel="stylesheet" href="https://ton.kagerou.dev/lib/releases/ton-1.0.0.min.css"`
-1. `<link rel="stylesheet" href="https://ton.kagerou.dev/lib/nightly.min.css"`
->>>>>>> 5e8aeeeff60178c95d8633e46ae9ecde518a8f5c
-
 ## 🎨 Configuration
 
 ```css
