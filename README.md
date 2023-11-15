@@ -1,21 +1,38 @@
-# Ton CSS
-A lightweight and classless CSS Framework, created to make creating static websites easier.
+<div align="center">
+    <img src="https://github.com/elderguardian/ton/assets/129489839/49d038d8-8480-4731-b75a-ffae8d8a0e60" width="15%">
+    <br><br>
+    <code>Ton CSS</code>
+    <p>Lightweight, classless and easy to use</p>
+    <br><br>
+    <a href="https://elderguardian.github.io/ton/"><i>PREVIEW</i></a>
+</div>
 
-## Installation
+## 🚀 Quick start
 
-If you want to install a specific release, visit the `Releases` page and download the source code.
+### Nightly
+```
+<link rel="stylesheet" href="https://ton.kagerou.dev/lib/nightly.min.css">
+```
 
-### Installing latest release as Git Submodule
+### Latest
+```
+<link rel="stylesheet" href="https://ton.kagerou.dev/lib/releases/latest.min.css">
+```
 
-1. `git submodule add https://github.com/elderguardian/ton.git`
-2. `<link rel="stylesheet" href="ton/ton.min.css">`
+### Specific Version
+```
+<link rel="stylesheet" href="https://ton.kagerou.dev/lib/releases/ton-0.1.0.css">
+```
 
+<<<<<<< HEAD
+=======
 ### Install latest release from Remote
 1. `<link rel="stylesheet" href="https://ton.kagerou.dev/lib/releases/latest.min.css"`
 1. `<link rel="stylesheet" href="https://ton.kagerou.dev/lib/releases/ton-1.0.0.min.css"`
 1. `<link rel="stylesheet" href="https://ton.kagerou.dev/lib/nightly.min.css"`
+>>>>>>> 5e8aeeeff60178c95d8633e46ae9ecde518a8f5c
 
-## Configuration
+## 🎨 Configuration
 
 ```css
 :root {
@@ -31,6 +48,10 @@ If you want to install a specific release, visit the `Releases` page and downloa
 }
 ```
 
+
+## 📄 License
+
+[GNU General Public License, Version 3.0 (GPL-3.0)](./LICENSE)
 
 <hr>
 
