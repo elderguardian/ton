@@ -11,7 +11,9 @@ If you want to install a specific release, visit the `Releases` page and downloa
 2. `<link rel="stylesheet" href="ton/ton.min.css">`
 
 ### Install latest release from Remote
-1. `<link rel="stylesheet" href="https://raw.githubusercontent.com/elderguardian/ton/main/ton.min.css"`
+1. `<link rel="stylesheet" href="https://ton.kagerou.dev/lib/releases/latest.min.css"`
+1. `<link rel="stylesheet" href="https://ton.kagerou.dev/lib/releases/ton-1.0.0.min.css"`
+1. `<link rel="stylesheet" href="https://ton.kagerou.dev/lib/nightly.min.css"`
 
 ## Configuration
 
