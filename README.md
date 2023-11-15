@@ -13,3 +13,8 @@
 ```
 <link rel="stylesheet" href="https://ton.kagerou.dev/lib/nightly.min.css">
 ```
+
+### Latest
+```
+<link rel="stylesheet" href="https://ton.kagerou.dev/lib/releases/latest.min.css">
+```
