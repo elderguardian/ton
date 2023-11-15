@@ -6,3 +6,10 @@
     <br><br>
     <a href="https://elderguardian.github.io/ton/"><i>PREVIEW</i></a>
 </div>
+
+## 🚀 Quick start
+
+### Nightly
+```
+<link rel="stylesheet" href="https://ton.kagerou.dev/lib/nightly.min.css">
+```
