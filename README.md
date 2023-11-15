@@ -18,3 +18,8 @@
 ```
 <link rel="stylesheet" href="https://ton.kagerou.dev/lib/releases/latest.min.css">
 ```
+
+### Specific Version
+```
+<link rel="stylesheet" href="https://ton.kagerou.dev/lib/releases/ton-0.1.0.css">
+```
