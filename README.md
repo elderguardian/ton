@@ -11,17 +11,17 @@
 
 ### Nightly
 ```
-<link rel="stylesheet" href="https://ton.kagerou.dev/lib/nightly.min.css">
+<link rel="stylesheet" href="https://elderguardian.github.io/ton/lib/nightly.min.css">
 ```
 
 ### Latest
 ```
-<link rel="stylesheet" href="https://ton.kagerou.dev/lib/releases/latest.min.css">
+<link rel="stylesheet" href="https://elderguardian.github.io/ton/lib/releases/latest.min.css">
 ```
 
 ### Specific Version
 ```
-<link rel="stylesheet" href="https://ton.kagerou.dev/lib/releases/ton-0.1.0.css">
+<link rel="stylesheet" href="https://elderguardian.github.io/ton/lib/releases/ton-0.1.0.css">
 ```
 
 ## 🎨 Configuration
